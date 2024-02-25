@@ -1,16 +1,4 @@
-# flutterlab35
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Программирование мобильных устройств, пересдача 26.02.
+Flutter.
+Алешкин Дмитрий МИБ-001, 4 курс, ФЦТК
+![image](https://github.com/Harned/flutterlab35/assets/99013503/13444617-8366-4e48-aec5-6fb638558bb0)
